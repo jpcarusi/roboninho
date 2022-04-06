@@ -8,9 +8,10 @@ Documentação técnica aqui:
 
 
 URL: https://robo.lancamentobrasil.com.br/users_performance
-#Title: Performance por corretor
 
-##EU COMO CEO, 
+Title: Performance por corretor
+
+EU COMO CEO, 
 GOSTARIA QUE todas as informações referente ao clico de vida do lead (do recebimento do lead até a conclusão da venda), fosse disponibilizado em um relatório com possibilidade de selecionar o período,
 PARA QUE eu consiga ter apoio nas tomadas de decisões.
 
